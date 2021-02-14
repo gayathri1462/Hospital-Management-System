@@ -12,7 +12,7 @@ The Hospital Management System can be entered using a username and password. It 
 
 * SERVER-SIDE SCRIPT: Python
 
-* DATABASE: sqlite
+* DATABASE: Sqlite (DBrowser)
 
 ### RESULTS  
 
